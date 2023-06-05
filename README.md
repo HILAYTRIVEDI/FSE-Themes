@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file for a repository that contains FSE themes Paperless and Screen Time in WordPress:
-
 # FSE Themes: Paperless and Screen Time
 
 This repository contains two Full Site Editing (FSE) themes for WordPress: Paperless and Screen Time. These themes leverage the power of Gutenberg and the upcoming block-based Full Site Editing functionality to provide flexible and customizable website templates.
