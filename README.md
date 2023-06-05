@@ -49,6 +49,6 @@ The Paperless and Screen Time themes are open source projects released under the
 
 For more information about each theme's specific features, setup instructions, and customization options, please refer to the respective README files within the theme folders.
 
-If you have any questions or need further assistance, please don't hesitate to contact our support team.
+If you have any questions or need further assistance, please don't hesitate to contact us.
 
-Thank you for using the Paperless and Screen Time FSE themes in WordPress! We hope they enhance your website building experience and help you create outstanding websites tailored to your needs.
+<a href="https://rtcamp.com/"><img src="https://rtcamp.com/wp-content/uploads/sites/2/2019/04/github-banner@2x.png" alt="Join us at rtCamp, we specialize in providing high performance enterprise WordPress solutions"></a>
