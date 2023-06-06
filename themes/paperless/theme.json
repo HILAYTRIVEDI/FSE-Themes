@@ -1,0 +1,50 @@
+{
+    "$schema": "http://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "settings": {
+        "layout": {
+           "contentSize": "800px",
+           "wideSize": "1600px"
+        },
+        "color": {
+            "palette": [
+                {
+                    "name": "Paperless Black",
+                    "slug": "paperless-black",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Paperless White",
+                    "slug": "paperless-white",
+                    "color": "#ffffff"
+                },
+                {
+                    "name": "Paperless Grey",
+                    "slug": "paperless-grey",
+                    "color": "#3a3a3a"
+                }
+            ]
+        },
+        "typography": {
+            "fontFamilies": [{
+                "fontFamily": "'Inter', sans-serif",
+                "name": "Body - Inter",
+                "slug": "body-inter",
+                "fontFace": [
+                    {
+                       "src": ["file:./assets/fonts/Inter/Inter-Regular.woff2"],
+                       "fontFamily": "'Inter', sans-serif",
+                       "fontWeight": "400"
+                    }
+                ]
+            }]
+        }
+    },
+    "styles": {
+        "typography": {
+            "fontFamily": "var(--wp--preset--font-family--body-inter)",
+            "fontSize": "16px",
+            "lineHeight": "1.5"
+        }
+    }
+}
