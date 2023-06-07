@@ -1,1 +1,43 @@
-/*# sourceMappingURL=main.css.map */
+.paperless-boxshadow .wp-block-button:hover {
+  transition: all 0.3s ease-in-out !important;
+  transform: translatey(-5px);
+  box-shadow: 5px 5px #000;
+}
+
+.header-links ul {
+  padding-left: 0;
+}
+.header-links ul li {
+  list-style: none;
+  padding: 5px;
+  margin-bottom: 5px;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.header-links ul li:hover {
+  transform: translate(-3px);
+  box-shadow: 3px 3px #000;
+}
+.header-links ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-links ul {
+  padding-left: 0;
+}
+.footer-links ul li {
+  list-style: none;
+  padding: 5px;
+  margin-bottom: 5px;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.footer-links ul li:hover {
+  transform: translate(-3px);
+  box-shadow: 3px 3px #000;
+}
+.footer-links ul li a {
+  text-decoration: none;
+  color: inherit;
+}/*# sourceMappingURL=main.css.map */

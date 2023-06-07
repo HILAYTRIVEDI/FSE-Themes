@@ -25,6 +25,8 @@ if ( ! function_exists( 'paperless_theme_supports' ) ) {
 		// Enqueue editor styles.
 		add_theme_support( 'style.css' );
 
+		add_theme_support( 'align-wide' );
+
 	}
 }
 
@@ -45,7 +47,7 @@ if ( ! function_exists( 'paperless_styles' ) ) {
 		wp_enqueue_style( 'paperless-style', get_stylesheet_uri(), array(), wp_get_theme()->get( 'Version' ), 'all' );
 
 		// Enqueue Block styles.
-		wp_enqueue_style( 'paperless-style-blocks', get_template_directory_uri() . './build/css/main.min.css', array(), wp_get_theme()->get( 'Version' ), 'all' );
+		wp_enqueue_style( 'paperless-style-blocks', get_template_directory_uri() . '/build/css/main.min.css', array(), '1.0.0', 'all' );
 
 	}
 

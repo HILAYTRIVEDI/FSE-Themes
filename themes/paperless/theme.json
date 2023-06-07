@@ -22,6 +22,20 @@
           "slug": "paperless-white",
           "color": "#F7F7F7",
           "name": "White"
+        },
+        {
+            "slug": "paperless-cyan",
+            "color": "#00c7e6",
+            "name": "Cyan"
+        },
+        {
+            "slug": "paperless-orange",
+            "color": "#ff7452",
+            "name": "Orange"
+        },{
+            "slug": "paperless-purple",
+            "color": "#c270c0",
+            "name": "Purple"
         }
       ]
     },
@@ -181,8 +195,8 @@
           "radius": "0"
         },
         "color": {
-          "background": "var(--wp--preset--color--paperless-black)",
-          "text": "var(--wp--preset--color--paperless-white)"
+          "background": "var(--wp--preset--color--paperless-orange)",
+          "text": "var(--wp--preset--color--paperless-black)"
         },
         "spacing": {
           "padding": {
