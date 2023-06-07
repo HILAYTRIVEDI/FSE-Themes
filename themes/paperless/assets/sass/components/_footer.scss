@@ -1,0 +1,23 @@
+.footer-links {
+    ul {
+        padding-left: 0;
+
+        li {
+            list-style: none;
+            padding: 5px;
+            margin-bottom: 5px;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+
+            &:hover {
+                transform: translate(-3px);
+                box-shadow: 0px 0px 5px #fff;
+            }
+
+            a {
+                text-decoration: none;
+                color: inherit;
+            }
+        }
+    }
+}

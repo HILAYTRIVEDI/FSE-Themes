@@ -1,0 +1,10 @@
+// Classes
+.paperless-boxshadow {
+    .wp-block-button {
+        &:hover {
+            transition: all .3s ease-in-out !important;
+            transform: translatey(-5px);
+            box-shadow: 5px 5px #000;
+        }
+    }
+}
